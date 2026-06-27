@@ -31,16 +31,19 @@ The code was **fully vectorized**, i wanted to use numpy allover the notebooks a
 
 ---
 ## Resources
-these resources actually helped me not just writting the notebooks but learning machine learning overall
 
---
-StatQuest with Josh Starmer - my favorite youtube channel, the machine learning playlist they have is a treasure .
-Kaggle Learn 
---
-3Blue1Brown -  you must watch their gradient descent video https://youtu.be/IHZwWFHWa-w?si=7URTB_yMo7KmUxf8
---
-other youtube vids : https://youtu.be/i_LwzRVP7bg?si=9OPL0iVUEbwf5sAY
---
+These resources didn't just help me write the notebooks — they're what taught me machine learning in the first place.
+
+- **[StatQuest with Josh Starmer](https://www.youtube.com/@statquest)** — my favorite YouTube channel.
+  The machine learning playlist is a treasure, watch it all.
+
+- **[Kaggle Learn](https://www.kaggle.com/learn)** — great for getting hands-on fast.
+
+- **[3Blue1Brown](https://www.youtube.com/@3blue1brown)** — you must watch their gradient descent video.
+  [→ Gradient Descent, how neural networks learn](https://youtu.be/IHZwWFHWa-w?si=7URTB_yMo7KmUxf8)
+
+- **[Machine Learning from Scratch — playlist](https://youtu.be/i_LwzRVP7bg?si=9OPL0iVUEbwf5sAY)** — the implementation
+  reference that influenced the structure of this repo.
 
 ---
 
