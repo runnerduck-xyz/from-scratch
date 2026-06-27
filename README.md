@@ -1,6 +1,6 @@
 # From Scratch
 
-In this repo i tried to implement machine learning algorithms from scratch using only numpy, the main purpose is to show the underluying math rather than memorizing library code.
+In this repo I tried to implement machine learning algorithms from scratch using only numpy, the main purpose is to show the underluying math rather than memorizing library code.
 
 Understanding the math is essential for real world problems and it adds more flexebility to your skills .
 
