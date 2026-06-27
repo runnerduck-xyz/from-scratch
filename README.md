@@ -33,11 +33,14 @@ The code was **fully vectorized**, i wanted to use numpy allover the notebooks a
 ## Resources
 these resources actually helped me not just writting the notebooks but learning machine learning overall
 
+--
 StatQuest with Josh Starmer - my favorite youtube channel, the machine learning playlist they have is a treasure .
 Kaggle Learn 
-3Blue1Brown - some of the topics they cover is a little bit advanced but i believe that you must watch their gradient descent video https://youtu.be/IHZwWFHWa-w?si=7URTB_yMo7KmUxf8
-other youtube vids :
-https://youtu.be/i_LwzRVP7bg?si=9OPL0iVUEbwf5sAY
+--
+3Blue1Brown -  you must watch their gradient descent video https://youtu.be/IHZwWFHWa-w?si=7URTB_yMo7KmUxf8
+--
+other youtube vids : https://youtu.be/i_LwzRVP7bg?si=9OPL0iVUEbwf5sAY
+--
 
 ---
 
