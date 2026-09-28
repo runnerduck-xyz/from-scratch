@@ -52,7 +52,7 @@ These resources didn't just help me write the notebooks — they're what taught 
 ```
 numpy
 matplotlib
-scikit-learn   # dataset loading only
+scikit-learn   # dataset loading only 
 ```
 
 ```bash
@@ -61,6 +61,6 @@ pip install numpy matplotlib scikit-learn
 ---
 
 ## Acknowledgements
-I did used claude to help write Markdowns  and visualize some of the resukts . All algorithm implementations and mathematical understanding are my own.
+I did used claude ai to help write Markdowns  and visualize some of the results . All algorithm implementations and mathematical understanding are my own .
 
 ---
